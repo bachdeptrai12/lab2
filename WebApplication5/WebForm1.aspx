@@ -14,7 +14,7 @@
         <asp:CheckBoxList ID="CheckBoxList1" runat="server" OnSelectedIndexChanged="CheckBoxList1_SelectedIndexChanged">
             <asp:ListItem Value="Red">red</asp:ListItem>
             <asp:ListItem Value="Blue">blue</asp:ListItem>
-            <asp:ListItem Value="Green">green</asp:ListItem>
+            <asp:ListItem Value="Green Hihi">green</asp:ListItem>
         </asp:CheckBoxList>
         <p>
             <asp:Button ID="Button1" runat="server" Height="26px" OnClick="Button1_Click" Text="Select" />
